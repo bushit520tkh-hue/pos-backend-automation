@@ -4,7 +4,7 @@
 > backend system, reducing daily operational overhead for non-technical staff.
 > 
 <p align="center">
-  <img src="demo.gif" width="600">
+  <img src="demo.gif" width="400">
 </p>
 
 ## Problem
