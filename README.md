@@ -3,6 +3,8 @@
 > Internal automation tool built to eliminate repetitive manual operations in a web-based POS
 > backend system, reducing daily operational overhead for non-technical staff.
 
+![PAD Automation Demo](screenshots/demo.gif)
+
 ## Problem
 
 The company's POS backend (a web-based admin panel at `beta9.pospal.cn`) requires staff to
