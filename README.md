@@ -56,3 +56,5 @@ data import/export) remain human-triggered by design, not automated.
 Self-initiated during a Diploma in IT internship (Network Security track) after observing
 repetitive manual workload in the POS backend, and approved by the employer as an internal
 efficiency tool.
+
+See also: [POS Backend Automation](https://github.com/Heng1028/pos-telegrambot-n8n)
