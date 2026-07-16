@@ -3,7 +3,9 @@
 > Internal automation tool built to eliminate repetitive manual operations in a web-based POS
 > backend system, reducing daily operational overhead for non-technical staff.
 > 
-![PAD Automation Demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" width="600">
+</p>
 
 ## Problem
 
